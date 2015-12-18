@@ -22,7 +22,7 @@ define('DB_NAME', 'veritabaniismi');
 define('DB_USER', 'kullaniciadi');
 
 /** MySQL veritabanı parolası */
-define('DB_PASSWORD', 'parola*');
+define('DB_PASSWORD', 'parola');
 
 /** MySQL sunucusu */
 define('DB_HOST', 'localhost');

@@ -1,0 +1,96 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">vh_android_market_link</custom-field>
+        <custom-field action="translate">event_actors</custom-field>
+        <custom-field action="translate">event_box_office</custom-field>
+        <custom-field action="translate">event_country</custom-field>
+        <custom-field action="translate">event_director</custom-field>
+        <custom-field action="translate">event_release</custom-field>
+        <custom-field action="translate">event_restriction</custom-field>
+        <custom-field action="translate">event_trailer</custom-field>
+        <custom-field action="translate">event_year</custom-field>
+        <custom-field action="ignore">layouts</custom-field>
+        <custom-field action="copy">movies_date</custom-field>
+        <custom-field action="translate">movies_length</custom-field>
+        <custom-field action="copy">movies_ticket</custom-field>
+        <custom-field action="translate">movie_time_values</custom-field>
+        <custom-field action="translate">offer_save</custom-field>
+        <custom-field action="copy">ratings_average</custom-field>
+        <custom-field action="copy">ratings_score</custom-field>
+        <custom-field action="copy">ratings_users</custom-field>
+        <custom-field action="ignore">sbg_selected_sidebar</custom-field>
+        <custom-field action="ignore">sbg_selected_sidebar_replacement</custom-field>
+        <custom-field action="ignore">slide_template</custom-field>
+        <custom-field action="copy">vc_teaser</custom-field>
+        <custom-field action="copy">vh_map_lat</custom-field>
+        <custom-field action="copy">vh_map_long</custom-field>
+        <custom-field action="translate">vh_map_title</custom-field>
+        <custom-field action="ignore">_additional_settings</custom-field>
+        <custom-field action="copy">_form</custom-field>
+        <custom-field action="copy">_locale</custom-field>
+        <custom-field action="copy">_mail</custom-field>
+        <custom-field action="copy">_mail_2</custom-field>
+        <custom-field action="copy">_menu_item_classes</custom-field>
+        <custom-field action="copy">_menu_item_custom</custom-field>
+        <custom-field action="copy">_menu_item_menu_item_parent</custom-field>
+        <custom-field action="copy">_menu_item_object</custom-field>
+        <custom-field action="copy">_menu_item_object_id</custom-field>
+        <custom-field action="copy">_menu_item_target</custom-field>
+        <custom-field action="copy">_menu_item_type</custom-field>
+        <custom-field action="copy">_menu_item_url</custom-field>
+        <custom-field action="copy">_menu_item_xfn</custom-field>
+        <custom-field action="translate">_messages</custom-field>
+        <custom-field action="copy">_wpb_shortcodes_custom_css</custom-field>
+        <custom-field action="translate">_wpb_vc_js_interface_version</custom-field>
+        <custom-field action="translate">_wpb_vc_js_status</custom-field>
+        <custom-field action="translate">_wp_attachment_context</custom-field>
+        <custom-field action="translate">_wp_attachment_is_custom_background</custom-field>
+        <custom-field action="translate">_wp_trash_meta_status</custom-field>
+        <custom-field action="translate">_wp_trash_meta_time</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">movies</custom-type>
+        <custom-type translate="1">special_offers</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">event_categories</taxonomy>
+        <taxonomy translate="1">offers_categories</taxonomy>
+    </taxonomies>
+    <language-switcher-settings>
+        <key name="icl_lang_sel_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>
+        <key name="icl_lang_sel_footer_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>    
+        <key name="icl_language_switcher_sidebar">0</key>  
+        <key name="icl_widget_title_show">0</key>
+        <key name="icl_lang_sel_type">dropdown</key>
+        <key name="icl_lso_link_empty">0</key>
+        <key name="icl_lso_flags">0</key>
+        <key name="icl_lso_native_lang">1</key>
+        <key name="icl_lso_display_lang">1</key>
+        <key name="icl_lang_sel_footer">0</key>
+        <key name="icl_post_availability">0</key>
+        <key name="icl_post_availability_position">below</key>
+        <key name="icl_post_availability_text">This post is also available in: %s</key>    
+    </language-switcher-settings>    
+</wpml-config>
+
+
